@@ -1,2 +1,3 @@
-# welcome
-Welcome to my Github home. Ah... There is nothing to show...
+Welcome
+-----------------------------
+欢迎欢迎，，，就是啥玩意都没有。。。
